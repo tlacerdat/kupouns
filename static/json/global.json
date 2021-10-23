@@ -1,0 +1,104 @@
+{
+  "data": {
+    "menuLinks": [
+      {
+        "route": "/#upperPage",
+        "text": "Commuity"
+      },
+      {
+        "route": "/#dailyOffers",
+        "text": "Offers"
+      },
+      {
+        "route": "/#topBrands",
+        "text": "Brands"
+      },
+      {
+        "route": "/#topCupons",
+        "text": "Coupouns"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Categories"
+      },
+      {
+        "name": "Category X"
+      },
+      {
+        "name": "Category Y"
+      },
+      {
+        "name": "Category Z"
+      }
+    ],
+    "about": {
+      "title": "About Kupouns",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean condimentum est a tellus condimentum ultrices. Duis vitae sem semper, auctor risus tincidunt, ultrices metus. Etiam mollis porta dolor, vel varius dui cursus in. Nullam fringilla quis velit non eleifend. Integer tempor metus eros, vel tempus odio ornare ac. Pellentesque gravida felis in neque elementum, id mattis tortor auctor. Donec gravida vitae nunc sed malesuada. Vestibulum laoreet vulputate nulla, venenatis malesuada neque faucibus a. Praesent commodo interdum elit a suscipit. Nullam ante ex, sagittis ut eros eget, commodo tempus elit."
+    },
+    "howUse": {
+      "title": "How to use a cupoun",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean condimentum est a tellus condimentum ultrices.\n\n Duis vitae sem semper, auctor risus tincidunt, ultrices metus. Etiam mollis porta dolor, vel varius dui cursus in. Nullam fringilla quis velit non eleifend. Integer tempor metus eros, vel tempus odio ornare ac. Pellentesque gravida felis in neque elementum, id mattis tortor auctor. Donec gravida vitae nunc sed malesuada. Vestibulum laoreet vulputate nulla, venenatis malesuada neque faucibus a."
+    },
+    "offerCoupons": {
+      "title": "Which stores offer coupons",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean condimentum est a tellus condimentum ultrices. Duis vitae sem semper, auctor risus tincidunt, ultrices metus. Etiam mollis porta dolor, vel varius dui cursus in. Nullam fringilla quis velit non eleifend. Integer tempor metus eros, vel tempus odio ornare ac.\n\n Vestibulum laoreet vulputate nulla, venenatis malesuada neque faucibus a. Praesent commodo interdum elit a suscipit. Nullam ante ex, sagittis ut eros eget, commodo tempus elit."
+    },
+    "footer": {
+      "texto_legal": "Kupouns. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "links": [
+        {
+          "group": "our-company",
+          "route": "/#upperPage",
+          "text": "About Us"
+        },
+        {
+          "group": "our-company",
+          "route": "/#upperPage",
+          "text": "Terms of Service"
+        },
+        {
+          "group": "our-company",
+          "route": "/#upperPage",
+          "text": "Privacy Policy"
+        },
+        {
+          "group": "our-company",
+          "route": "/#upperPage",
+          "text": "Community"
+        },
+        {
+          "group": "contact-us",
+          "route": "/#upperPage",
+          "text": "FAQ"
+        },
+        {
+          "group": "contact-us",
+          "route": "/#upperPage",
+          "text": "Support & Feedback"
+        },
+        {
+          "group": "contact-us",
+          "route": "/#upperPage",
+          "text": "Contact"
+        },
+        {
+          "group": "coupouns",
+          "route": "/#upperPage",
+          "text": "Coupouns"
+        },
+        {
+          "group": "coupouns",
+          "route": "/#upperPage",
+          "text": "Offers"
+        },
+        {
+          "group": "coupouns",
+          "route": "/#upperPage",
+          "text": "Brands"
+        }
+      ]
+    }
+  }
+}
