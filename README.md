@@ -1,14 +1,12 @@
 # kupouns-front
 
-## Real project made in Nuxt.js
+Real project made in Nuxt.js
 
 ## Layout
 
 The application layout is available on Figma:
 
-<a href="https://www.figma.com/proto/NpOZh3rWKu4eCyuzCWauCU/Kupouns?page-id=0%3A1&node-id=91%3A1750&scaling=min-zoom">
-  Figma
-</a>
+<a href="https://www.figma.com/proto/NpOZh3rWKu4eCyuzCWauCU/Kupouns?page-id=0%3A1&node-id=91%3A1750&scaling=min-zoom">Figma</a>
 
 
 ## Build Setup
